@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yili Wang"
+title                    : "Yili Wang(王一立)"
 title_separator          : "-"
 name                     : &name "Yili Wang"
 description              : &description "Ph.D. in Artificial Intelligence, Jilin University"
@@ -21,14 +21,14 @@ repository               : "Yl-wang/Yl-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "YL.JPG" # 确保此文件在你的网站资源目录中，例如 `/assets/images/`
+  name             : "Yili Wang"
+  pronouns         : "" # 如果需要可以添加，比如 "he/him"
+  bio              : "Ph.D. in Artificial Intelligence, Jilin University."
+  location         : "China"
+  employer         : "Jilin University"
+  uri              : "https://yl-wang.github.io/" # 个人主页地址
+  email            : "wangyl21@mails.jlu.edu.cn" # 替换为你的实际邮箱
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
