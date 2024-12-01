@@ -21,7 +21,7 @@ repository               : "Yl-wang/Yl-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/YL-wang/YL-wang.github.io/blob/master/YL.JPG" # 确保此文件在你的网站资源目录中，例如 `/assets/images/`
+  avatar           : "YL.JPG" # 确保此文件在你的网站资源目录中，例如 `/assets/images/`
   name             : "Yili Wang"
   pronouns         : "" # 如果需要可以添加，比如 "he/him"
   bio              : "Ph.D. in Artificial Intelligence, Jilin University."
