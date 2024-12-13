@@ -59,7 +59,7 @@ Yintao Yang, Rui Miao, <b>Yili Wang</b>, Xin Wang.<br />
 
 <li>ATTfold: RNA secondary structure prediction with pseudoknots based on attention mechanism<br />
 <b>Yili Wang</b>, Yuanning Liu, Shuo Wang, Zhen Liu, Yubing Gao, Hao Zhang, Liyan Dong.<br />
-<i>Frontiers in Genetics, 2022.</i><br /></li>
+<i>Frontiers in Genetics, 2020.</i><br /></li>
 
 
 </ul>
