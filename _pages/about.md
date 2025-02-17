@@ -13,10 +13,13 @@ My research encompasses large-scale node classification, molecular graph classif
 
 News
 =====
+**2025-02:** One Paper accepted by PAKDD 2025.
+
+**2025-01:** One Paper accepted by ICLR 2025.
 
 **2024-09:** One Paper accepted by EMNLP 2024.
 
-**2024-06:** One paper accetped by ESWA.
+**2024-06:** One paper accepted by ESWA.
 
 **2024-05:** One paper accepted by KDD Research Track 2024.
 
