@@ -13,6 +13,8 @@ My research encompasses large-scale node classification, molecular graph classif
 
 News
 =====
+**2025-02:** One Paper accepted by Neural Networks(J).
+
 **2025-02:** One Paper accepted by PAKDD 2025.
 
 **2025-01:** One Paper accepted by ICLR 2025.
