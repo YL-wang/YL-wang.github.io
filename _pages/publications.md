@@ -12,8 +12,6 @@ Xin He, <b>Yili Wang</b>, Wenqi Fan, Xu Shen, Xin Juan, Rui Miao, Xin Wang<br />
 <li>Graph Defense Diffusion Model<br />
 Xin He, Wenqi Fan, <b>Yili Wang</b>, Chengyi Liu, Rui Miao, Xin Juan, Xin Wang.<br /></li>
 
-<li>Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias<br />
-Xin He, Wenqi Fan, Ruobing Wang, <b>Yili Wang</b>, Ying Wang, Shirui Pan, Xin Wang.<br /></li>
 
 </ul>
 
@@ -21,6 +19,12 @@ Xin He, Wenqi Fan, Ruobing Wang, <b>Yili Wang</b>, Ying Wang, Shirui Pan, Xin Wa
 ## Conference/Journal Papers (* indicates equal contributions)
 
 <ul>
+	
+<li>Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias<br />
+Xin He, Wenqi Fan, Ruobing Wang, <b>Yili Wang</b>, Ying Wang, Shirui Pan, Xin Wang.<br />
+<i>Neural Networks(J), 2025.</i><br /></li>
+
+ 
 <li>Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark<br />
 <b>Yili Wang*</b>, Yixin Liu*, Xu Shen*, Chenyu Li, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang.<br />
 <i>International Conference on Learning Representation (ICLR), 2025.</i><br /></li>
