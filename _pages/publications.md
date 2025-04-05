@@ -23,7 +23,7 @@ Xin He, Wenqi Fan, Ruobing Wang, <b>Yili Wang</b>, Ying Wang, Shirui Pan, Xin Wa
 <ul>
 <li>Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark<br />
 <b>Yili Wang*</b>, Yixin Liu*, Xu Shen*, Chenyu Li, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang.<br />
-<i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
+<i>International Conference on Learning Representation (ICLR), 2025.</i><br /></li>
 
  
 <li>Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion<br />
