@@ -6,12 +6,9 @@ author_profile: true
 ---
 
 <ul>
-<li>Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space<br />
-Xin He, <b>Yili Wang</b>, Wenqi Fan, Xu Shen, Xin Juan, Rui Miao, Xin Wang<br /></li>
 
 <li>Graph Defense Diffusion Model<br />
 Xin He, Wenqi Fan, <b>Yili Wang</b>, Chengyi Liu, Rui Miao, Xin Juan, Xin Wang.<br /></li>
-
 
 </ul>
 
@@ -19,6 +16,10 @@ Xin He, Wenqi Fan, <b>Yili Wang</b>, Chengyi Liu, Rui Miao, Xin Juan, Xin Wang.<
 ## Conference/Journal Papers (* indicates equal contributions)
 
 <ul>
+
+<li>Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space<br />
+Xin He*, <b>Yili Wang*</b>, Wenqi Fan, Xu Shen, Xin Juan, Rui Miao, Xin Wang<br />
+<i>International Joint Conferences on Artificial Intelligence (IJCAI), 2025.</i><br /></li>
 	
 <li>Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias<br />
 Xin He, Wenqi Fan, Ruobing Wang, <b>Yili Wang</b>, Ying Wang, Shirui Pan, Xin Wang.<br />
