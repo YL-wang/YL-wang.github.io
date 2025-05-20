@@ -13,6 +13,8 @@ My research encompasses large-scale node classification, molecular graph classif
 
 News
 =====
+**2025-05:** One Paper accepted by TPAMI.
+
 **2025-04:** One Paper accepted by IJCAI 2025.
 
 **2025-02:** One Paper accepted by Neural Networks(J).
