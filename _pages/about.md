@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the School of **Artificial Intelligence at Jilin University**, selected as a **Dingxin Scholar Postdoctoral Fellow**, supervised by Professor [Yi Chang](http://yichang-cs.com/). My current research focuses on the integration of large language models (LLMs) with graph neural networks (GNNs) to enhance scalability, robustness, and generalization in graph-based learning.
+I am a postdoctoral researcher in the **School of Artificial Intelligence Jilin University**, selected as a **Dingxin Scholar Postdoctoral Fellow**, supervised by Professor [Yi Chang](http://yichang-cs.com/). My current research focuses on the integration of large language models (LLMs) with graph neural networks (GNNs) to enhance scalability, robustness, and generalization in graph-based learning.
 
 Previously, I participated in a CSC joint training program at **Griffith University** (2023.11–2024.11), collaborating with Professor [**Shirui Pan**](https://trust-agi.github.io/author/shirui-pan/) (ARC Future Fellow) on out-of-distribution graph detection and graph prompt learning. I obtained my Ph.D. in Artificial Intelligence from Jilin University, under the supervision of Associate Professor [**Xin Wang**](https://xinwangjlu.github.io/), with research focusing on large-scale graph representation learning.
 
