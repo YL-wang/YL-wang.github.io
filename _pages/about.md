@@ -7,12 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the School of Artificial Intelligence at Jilin University, supervised by Associate Professor [Xin Wang](https://xinwangjlu.github.io/), focusing on large-scale graph representation learning. Previously, I participated in a CSC joint training program at Griffith University(2023.11–2024.11), collaborating with Professor [Shirui Pan](https://trust-agi.github.io/author/shirui-pan/) (ARC Future Fellow) on out-of-distribution graph detection and graph prompt learning. Currently, I am in the final stages of completing my Ph.D.
+I am a postdoctoral researcher in the School of **Artificial Intelligence at Jilin University**, selected as a **Dingxin Scholar Postdoctoral Fellow**, supervised by Professor [Yi Chang](http://yichang-cs.com/). My current research focuses on the integration of large language models (LLMs) with graph neural networks (GNNs) to enhance scalability, robustness, and generalization in graph-based learning.
 
-My research encompasses large-scale node classification, molecular graph classification, and graph OOD detection and generalization. I specialize in techniques such as contrastive learning, sharpness-aware minimization, information bottleneck, adversarial learning, prompt learning, and diffusion models. I aim to develop scalable and robust machine-learning algorithms to address complex challenges in graph-based applications.
+Previously, I participated in a CSC joint training program at **Griffith University** (2023.11–2024.11), collaborating with Professor [**Shirui Pan**](https://trust-agi.github.io/author/shirui-pan/) (ARC Future Fellow) on out-of-distribution graph detection and graph prompt learning. I obtained my Ph.D. in Artificial Intelligence from Jilin University, under the supervision of Associate Professor [**Xin Wang**](https://xinwangjlu.github.io/), with research focusing on large-scale graph representation learning.
+
+My research broadly focuses on graph representation learning, out-of-distribution generalization, and the integration of LLMs with GNNs. I aim to develop scalable and trustworthy AI algorithms for complex graph-structured data, with applications spanning from scientific discovery to intelligent systems.
+
 
 News
 =====
+**2025-08:** TWO papers accepted by EMNLP 2025.
+
 **2025-05:** One Paper accepted by TPAMI.
 
 **2025-04:** One Paper accepted by IJCAI 2025.
