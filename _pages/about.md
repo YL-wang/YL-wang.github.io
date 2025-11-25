@@ -16,7 +16,11 @@ My research broadly focuses on graph representation learning, out-of-distributio
 
 News
 =====
-**2025-08:** Two papers accepted by EMNLP 2025.
+**2025-11:** One paper accepted by KDD 2025.
+
+**2025-11:** Two papers accepted by AAAI (oral) 2025.
+
+**2025-08:** Two papers accepted by EMNLP (oral) 2025.
 
 **2025-05:** One Paper accepted by TPAMI.
 
