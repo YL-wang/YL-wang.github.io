@@ -16,7 +16,7 @@ My research broadly focuses on graph representation learning, out-of-distributio
 
 News
 =====
-**2025-11:** One paper accepted by KDD 2026.
+**2025-11:** One paper accepted by KDD Research Track 2026.
 
 **2025-11:** Two papers accepted by AAAI (oral) 2026.
 
