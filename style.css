@@ -585,14 +585,14 @@ letter-spacing: 0.2px;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 16px 0 4px;
+  padding: 18px 0 6px;
   overflow-x: auto;
 }
 
 .visitor-map img {
   max-width: 100%;
   height: auto;
-  border-radius: 12px;
+  border-radius: 14px;
 }
 
 
